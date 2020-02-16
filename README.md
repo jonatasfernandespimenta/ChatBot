@@ -7,7 +7,7 @@
 This project is basically a ChatBot made using the chatterbot library.
 To get started you'll need Python 3, if you already have it, you can continue reading, if not, install by following this link: https://www.python.org/downloads/
 
-````console
+```console
 hello@world:~$ pip3 install chatterbot
 ```
 
